@@ -1,0 +1,10 @@
+width = 17
+height = 12.0
+a = width//2
+print("width//2=",a,type(a))
+b = width/2.0
+print("width/2.0=",b,type(b))
+c = height/3
+print("height/3=",c,type(c))
+d = 1 + 2 * 5
+print("1 + 2 * 5=",d,type(d))
