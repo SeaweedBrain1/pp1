@@ -1,0 +1,12 @@
+{
+      "title": "film",
+      "year": "1991",
+      "actor": {
+            "leading": "Jo Jo",
+            "supporting": "No No"
+      },
+      "oscar": false,
+      "length": "2min",
+      "good": "yes",
+      "interesting": "yes"
+}

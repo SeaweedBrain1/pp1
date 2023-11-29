@@ -1,0 +1,18 @@
+{
+      "Age": 20,
+      "Good_student": false,
+      "Name": "qlkwje",
+      "Grades": [
+            1,
+            2,
+            1,
+            2,
+            2,
+            1
+      ],
+      "Appear": {
+            "Hair": "Blonde",
+            "Height": "183cm",
+            "Eyes_color": "Blue"
+      }
+}
